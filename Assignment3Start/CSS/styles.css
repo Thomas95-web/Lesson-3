@@ -1,0 +1,24 @@
+.family{height: 400px;
+width: auto; 
+float: right;}
+
+.logo{ height: 200px;
+width: auto;}
+
+section a{
+    color: lightslategray;
+}
+a:hover{
+    text-decoration: none;
+}
+
+footer{ 
+background: lightslategrey;}
+
+h1{background-color: burlywood;
+background-size: 200px;}
+
+body{ margin: auto;
+padding: 10px;
+width: auto;
+}
