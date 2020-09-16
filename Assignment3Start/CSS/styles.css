@@ -1,9 +1,10 @@
-.family{height: 400px;
+.family{height: 300px;
 width: auto; 
 float: right;}
 
 .logo{ height: 200px;
-width: auto;}
+width: auto;
+}
 
 section a{
     color: lightslategray;
@@ -15,10 +16,20 @@ a:hover{
 footer{ 
 background: lightslategrey;}
 
-h1{background-color: burlywood;
-background-size: 200px;}
+header{background-color: lightslategray;
+background-size: 200px;
+text-align: center;}
 
-body{ margin: auto;
+body{ margin: 0 auto;
 padding: 10px;
-width: auto;
+width: 1000px;
+color: antiquewhite;
 }
+
+.work{text-align: right;}
+
+section{background-color: midnightblue;
+padding: 10px;
+border: steelblue 2px solid ;}
+
+.program{font-weight: bold;}
